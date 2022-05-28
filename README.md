@@ -1,6 +1,7 @@
 # Data-Structures
 
-<p> File contains Data Structures Algorithms in C++</p>
+<p> File contains Data Structures Algorithms in C++.The Programming tasks for each Algorithm are available in this Repository</p>
+Following are the main algorithms given below 
 <ul>
   <li>Array List</li>
   <li>Ceil and Floor</li>
